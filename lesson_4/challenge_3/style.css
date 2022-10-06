@@ -1,0 +1,22 @@
+*{
+    background-color:black;
+}
+p {
+    color:yellow;
+}
+.purple {
+    color:purple;
+}
+.white {
+    color:white;
+}
+.red {
+    color:red;
+}
+div {
+    color:black;
+background-color:white;
+}
+.texto-grueso{
+    font-weight: bold;
+}
